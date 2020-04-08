@@ -1,5 +1,40 @@
 {
   "fullname": "Kiryl Chetyrbak",
   "role": "Full-Stack Developer",
-  "summary": "Sint deleniti esse in repellat consectetur numquam quis. Voluptas minus et numquam quod harum non est est. Quia commodi non minus a doloribus iusto quam est. In dolor voluptate asperiores eum eos saepe. Voluptas earum ut voluptas nostrum cumque deserunt voluptatum. Ut provident ea porro commodi sit sint aut dolores."
+  "summary": "Sint deleniti esse in repellat consectetur numquam quis. Voluptas minus et numquam quod harum non est est. Quia commodi non minus a doloribus iusto quam est. In dolor voluptate asperiores eum eos saepe. Voluptas earum ut voluptas nostrum cumque deserunt voluptatum. Ut provident ea porro commodi sit sint aut dolores.",
+  "contact": {
+    "phone": "2018873152",
+    "email": "kirylchetyrbak@gmail.com",
+    "website": "chetyrbak.com",
+    "location": "Los Angeles, CA"
+  },
+  "social": [
+    {
+      "service": "github",
+      "url": "https://github.com/da1z"
+    }
+  ],
+  "experience": [
+    {
+      "start": "04/2020",
+      "end": "04/2020",
+      "company": "Ledner Group",
+      "description": "Beatae quos quia facere aut quae dolorem. Tempore rem et maiores eligendi sed ut voluptas dolore. Nihil omnis rerum dolores. Amet perspiciatis aperiam architecto.",
+      "role": "Full-Stack Developer"
+    },
+    {
+      "start": "04/2020",
+      "end": "04/2020",
+      "company": "Wehner - Wiza",
+      "description": "Beatae quos quia facere aut quae dolorem. Tempore rem et maiores eligendi sed ut voluptas dolore. Nihil omnis rerum dolores. Amet perspiciatis aperiam architecto.",
+      "role": "Full-Stack Developer"
+    },
+    {
+      "start": "04/2020",
+      "end": "04/2020",
+      "company": "Parker LLC",
+      "description": "Beatae quos quia facere aut quae dolorem. Tempore rem et maiores eligendi sed ut voluptas dolore. Nihil omnis rerum dolores. Amet perspiciatis aperiam architecto.",
+      "role": "Full-Stack Developer"
+    }
+  ]
 }
